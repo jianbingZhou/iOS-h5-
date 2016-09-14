@@ -15,6 +15,7 @@
 		AA3ABCBA1D88F8C900C82D57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA3ABCB81D88F8C900C82D57 /* LaunchScreen.storyboard */; };
 		AA3ABCC51D88F8C900C82D57 /* iOSToH5Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3ABCC41D88F8C900C82D57 /* iOSToH5Tests.m */; };
 		AA3ABCD01D88F8C900C82D57 /* iOSToH5UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3ABCCF1D88F8C900C82D57 /* iOSToH5UITests.m */; };
+		AA3ABCDE1D88FB7A00C82D57 /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = AA3ABCDD1D88FB7A00C82D57 /* test.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AA3ABCCB1D88F8C900C82D57 /* iOSToH5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSToH5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA3ABCCF1D88F8C900C82D57 /* iOSToH5UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSToH5UITests.m; sourceTree = "<group>"; };
 		AA3ABCD11D88F8C900C82D57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA3ABCDD1D88FB7A00C82D57 /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				AA3ABCB81D88F8C900C82D57 /* LaunchScreen.storyboard */,
 				AA3ABCBB1D88F8C900C82D57 /* Info.plist */,
 				AA3ABCAA1D88F8C900C82D57 /* Supporting Files */,
+				AA3ABCDD1D88FB7A00C82D57 /* test.html */,
 			);
 			path = iOSToH5;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA3ABCDE1D88FB7A00C82D57 /* test.html in Resources */,
 				AA3ABCBA1D88F8C900C82D57 /* LaunchScreen.storyboard in Resources */,
 				AA3ABCB71D88F8C900C82D57 /* Assets.xcassets in Resources */,
 				AA3ABCB51D88F8C900C82D57 /* Main.storyboard in Resources */,
